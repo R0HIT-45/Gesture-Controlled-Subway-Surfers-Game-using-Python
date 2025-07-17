@@ -9,7 +9,7 @@ import time
 # Constants for configuration
 DETECTION_CONFIDENCE = 0.5
 TRACKING_CONFIDENCE = 0.5
-GAME_URL = "https://poki.com/en/g/temple-run-2"
+GAME_URL = "https://poki.com/en/g/subway-surfers"
 SLEEP_TIME = 10
 
 # Initialize MediaPipe Pose
